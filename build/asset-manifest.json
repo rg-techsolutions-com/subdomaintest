@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4efd3ff7.css",
+    "main.js": "/static/js/main.0f4314f0.js",
+    "static/js/787.8a523152.chunk.js": "/static/js/787.8a523152.chunk.js",
+    "static/media/vector.png": "/static/media/vector.62f8f3ce297596a544c9.png",
+    "static/media/venmo_qr_code.jpg": "/static/media/venmo_qr_code.03978d4c736b29233918.jpg",
+    "static/media/loading.gif": "/static/media/loading.757857ce13a4e4e598e4.gif",
+    "static/media/logo.svg": "/static/media/logo.f808de9e550b6308c0eb77c08ea63bb7.svg",
+    "index.html": "/index.html",
+    "main.4efd3ff7.css.map": "/static/css/main.4efd3ff7.css.map",
+    "main.0f4314f0.js.map": "/static/js/main.0f4314f0.js.map",
+    "787.8a523152.chunk.js.map": "/static/js/787.8a523152.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4efd3ff7.css",
+    "static/js/main.0f4314f0.js"
+  ]
+}
