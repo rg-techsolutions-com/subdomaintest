@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100&family=Nunito:wght@200;400;500;700&display=swap');
+.balance p {
+  margin: 0;
+  font-size: 12px;
+}
+* {
+  font-family: 'Nunito' !important;
+}
+
+.close-btn button {
+  padding: 0;
+  margin-bottom: 10px;
+}
+.modal-scroll,
+.modal-scroll-lit {
+  padding: 0 10px 0 0;
+}
+/* width */
+.modal-scroll::-webkit-scrollbar,
+.modal-scroll-lit::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* Track */
+.modal-scroll::-webkit-scrollbar-track,
+.modal-scroll-lit::-webkit-scrollbar-track {
+  background: #ffffff;
+}
+
+/* Handle */
+.modal-scroll::-webkit-scrollbar-thumb {
+  background: #1b1d38;
+}
+
+/* Handle on hover */
+.modal-scroll::-webkit-scrollbar-thumb:hover {
+  background: #12142b;
+}
+/* Handle */
+.modal-scroll-lit::-webkit-scrollbar-thumb {
+  background: #c4c4c4;
+}
+
+/* Handle on hover */
+.modal-scroll-lit::-webkit-scrollbar-thumb:hover {
+  background: #9c9c9c;
+}
+.table-btn a {
+  min-width: 110px !important;
+  padding: 6px 8px !important;
+  border-radius: 4px !important;
+}
+
