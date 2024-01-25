@@ -11,6 +11,7 @@ This is the project pipeline for the DIYSE web application using ReactJS.
 
 ## Run the app locally using `yarn start`
 First enter: yarn install
+
 Then enter: npm node install
 
 Runs the app in the development mode.
